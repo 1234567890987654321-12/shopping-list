@@ -1,4 +1,5 @@
 # Проект "shopping-list"
+<img width="1275" height="283" alt="{11EFF3E5-ACA0-4E24-88C6-B7AF36A94875}" src="https://github.com/user-attachments/assets/4fdfd01a-98b1-423e-af17-4266670b989a" />
 
 ## Описание проекта
 Данный проект создан для быстрого создания всевозможных списков
