@@ -2,6 +2,7 @@
 ## Введение в проект (Описание проекта)
 "shopping-list" - это "консольная" программа для создания различных списков
 
+<img width="464" height="260" alt="2026-04-2919-55-55-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/55a4baaa-0067-4002-9995-bc85c51fdab5" />
 
 ## Цели проекта
 создание списков
